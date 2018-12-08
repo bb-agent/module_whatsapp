@@ -1,4 +1,4 @@
 module_whatsapp
 ===============
 
-FruityWifi whatsapp discover module
+BlackBulb whatsapp discover module
